@@ -1,4 +1,4 @@
-<h1 align="center">📄 Bus Stop List App</h1>
+<h1 align="center">&#x1F68C Bus Stop List App</h1>
 
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
 
