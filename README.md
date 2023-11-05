@@ -28,9 +28,12 @@ Los temas clave que se abordarán son los siguientes:
 Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar SQL, implementar persistencia de datos con Room y gestionar datos con DataStore en aplicaciones Android**.
 
 ## 📱 Vista de la App
+
 <ul align="center">		
-  <img  style="width:15rem" src="https://i.imgur.com/kB0c0FU.png"><br>
+  <img  style="width:20rem" src="https://i.imgur.com/GLblFZK.png">
+  <img  style="width:20rem" src="https://i.imgur.com/YJaxBZi.png">
 </ul>
+
 
 ## 🎮 Ejecución de la Aplicación
 Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
