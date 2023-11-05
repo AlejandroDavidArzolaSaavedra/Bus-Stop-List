@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.BusSchedule" parent="android:Theme.Material.Light.NoActionBar" />
+    <color name="colorLP">#FFD900</color>
+</resources>
