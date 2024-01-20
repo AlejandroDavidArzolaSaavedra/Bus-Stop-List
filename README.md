@@ -30,8 +30,8 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 ## 📱 Vista de la App
 
 <ul align="center">		
-  <img  style="width:20rem" src="https://i.imgur.com/GLblFZK.png">
-  <img  style="width:20rem" src="https://i.imgur.com/YJaxBZi.png">
+  <img  width="200px" src="https://i.imgur.com/GLblFZK.png">
+  <img  width="200px" src="https://i.imgur.com/YJaxBZi.png">
 </ul>
 
 
