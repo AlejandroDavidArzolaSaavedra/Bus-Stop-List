@@ -16,10 +16,7 @@ Los temas clave que se abordarán son los siguientes:
 
 - **🚀 Introducción a SQL:**
   En esta sección, se proporciona una **introducción a los conceptos fundamentales de SQL (Structured Query Language)**. Se exploran las bases de datos relacionales y cómo SQL se utiliza para interactuar con ellas. Se aborda conceptos clave como consultas, inserciones, actualizaciones y eliminaciones de datos.
-
-- **⚙️ Configuración del Entorno SQL:**
-  Aquí, se detalla el **proceso de configuración del entorno de trabajo para utilizar SQL**. Esto incluye la instalación de un sistema de gestión de bases de datos (DBMS) y la creación de una base de datos para practicar los comandos SQL.
-
+  
 - **🔍 Consultas y Manipulación de Datos:**
   En esta sección, se aprende a **realizar consultas efectivas en SQL para recuperar datos específicos de una base de datos**. Se aborda operaciones como filtrado, ordenación y agrupación de datos.
 
