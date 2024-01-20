@@ -61,7 +61,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 2. Haz clic en el archivo "codelab.tex" para abrirlo en el editor de Overleaf.
 
-3. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar". Haz clic en este botón.
+3. En la parte superior del editor, haz click en "Recompilar" o "Compilar".
 
 ## 🤝 Contribuciones
 
