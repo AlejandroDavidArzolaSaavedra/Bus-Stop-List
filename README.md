@@ -55,7 +55,7 @@ Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo 
 ## 📄 Compilación del Informe
 Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
 
-<img align="left" width="120" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Bus-Stop-List-app/assets/90756437/53041018-21d8-45b8-a68c-b0dee56c45ab">
+<img align="left" width="120" height="105" src="https://github.com/AlejandroDavidArzolaSaavedra/Bus-Stop-List-app/assets/90756437/53041018-21d8-45b8-a68c-b0dee56c45ab">
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
