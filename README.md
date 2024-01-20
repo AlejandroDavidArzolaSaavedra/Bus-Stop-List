@@ -37,7 +37,9 @@ Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar 
 
 
 ## 🎮 Ejecución de la Aplicación
-Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:
+Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos pasos utilizando Android Studio:<br>
+
+<img align="left" width="120" height="150" src="https://github.com/AlejandroDavidArzolaSaavedra/Bus-Stop-List-app/assets/90756437/08f28109-4acc-4674-8245-f8cf291b10f8">
 
 1. Abre tu proyecto en Android Studio.
 
@@ -45,9 +47,7 @@ Además, para compilar y ejecutar tu aplicación Android localmente, sigue estos
 
 3. Haz clic en el botón "Build" para compilar tu aplicación.
 
-4. Una vez completada la compilación, selecciona un emulador o conecta un dispositivo físico.
-
-5. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
+4. Haz clic en el botón "Run" para ejecutar la aplicación en el emulador o dispositivo.
 
 Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo correctamente y que tu aplicación está libre de errores. ¡Disfruta de la compilación y ejecución de tu aplicación en Android Studio!
 
