@@ -56,19 +56,15 @@ Recuerda que estos pasos asumen que ya has configurado tu entorno de desarrollo 
 
 
 ## 📄 Compilación del Informe
-Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:
+Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina local, puedes seguir estos pasos:<br>
+
+<img align="left" width="120" height="100" src="https://github.com/AlejandroDavidArzolaSaavedra/Bus-Stop-List-app/assets/90756437/53041018-21d8-45b8-a68c-b0dee56c45ab">
 
 1. Abre tu proyecto en Overleaf (asegúrate de haber creado una cuenta en Overleaf y de haber importado tu proyecto allí).
 
-2. Localiza el archivo "codelab.tex" en el proyecto en Overleaf.
+2. Haz clic en el archivo "codelab.tex" para abrirlo en el editor de Overleaf.
 
-3. Haz clic en el archivo "codelab.tex" para abrirlo en el editor de Overleaf.
-
-4. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar" (puede variar según la versión de Overleaf). Haz clic en este botón.
-
-5. Overleaf se encargará de compilar automáticamente el documento LaTeX y generará el archivo PDF correspondiente.
-
-6. Una vez que haya finalizado la compilación, podrás descargar el archivo PDF resultante desde la interfaz de Overleaf.
+3. En la parte superior del editor, verás un botón llamado "Recompilar" o "Compilar". Haz clic en este botón.
 
 ## 🤝 Contribuciones
 
