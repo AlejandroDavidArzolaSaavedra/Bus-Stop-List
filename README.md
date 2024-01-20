@@ -1,5 +1,9 @@
 <h1 align="center">&#x1F68C Bus Stop List App</h1>
 
+<p align="center">
+  <img width="500px" src="https://github.com/AlejandroDavidArzolaSaavedra/Bus-Stop-List-app/assets/90756437/45555d5f-14fc-4e0b-923f-d485c34f8617">
+</p>
+
 Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
